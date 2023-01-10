@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bnb_myschool"
+        android:icon="@drawable/menu_selector"
+        android:title="우리학교"
+        />
+    <item
+        android:id="@+id/bnb_home"
+        android:icon="@drawable/menu_selector"
+        android:title="홈"
+        />
+    <item
+        android:id="@+id/bnb_mypage"
+        android:icon="@drawable/menu_selector"
+        android:title="My Page"
+        />
+</menu>
